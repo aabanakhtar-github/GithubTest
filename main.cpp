@@ -1,6 +1,5 @@
 #include <iostream>
-
-int RNG(int, int);
+#include <random>
 
 int main()
 {
