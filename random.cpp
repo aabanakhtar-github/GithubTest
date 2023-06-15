@@ -1,5 +1,6 @@
 #include <random>
 
+//haha yes
 int RNG(int min, int max)
 {
     static std::random_device rd;
