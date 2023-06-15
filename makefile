@@ -1,5 +1,5 @@
 COMPILER = g++
-SOURCES = main.cpp 
+SOURCES = main.cpp random.cpp
 TARGET_NAME = main.exe
 CPP_STANDARD = 20
 
