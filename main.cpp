@@ -1,8 +1,8 @@
 #include <iostream>
+#include "random.h"
 
-
-int RNG(int, int);
-
+//random class
+//try pulling this
 class foo 
 {
     public:
