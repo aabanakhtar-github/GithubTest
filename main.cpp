@@ -1,6 +1,7 @@
 #include <iostream>
 #include "random.h"
 
+//random class
 class foo 
 {
     public:
