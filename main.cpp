@@ -2,6 +2,7 @@
 #include "random.h"
 
 //random class
+//try pulling this
 class foo 
 {
     public:
