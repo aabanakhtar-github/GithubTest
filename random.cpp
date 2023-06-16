@@ -1,4 +1,5 @@
 #include <random>
+#include "random.h"
 
 //haha yes
 int RNG(int min, int max)

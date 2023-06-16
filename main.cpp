@@ -1,7 +1,5 @@
 #include <iostream>
-
-
-int RNG(int, int);
+#include "random.h"
 
 class foo 
 {
